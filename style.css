@@ -1,0 +1,41 @@
+html {
+  background-color: rgb(15, 15, 49);
+  color: rgb(189, 181, 181);
+
+}
+
+body {
+
+}
+
+header .content {
+  display: flex;
+  height: 20px;
+  align-items: center;
+  width: 100%;
+}
+
+nav ul li {
+  display: inline;
+  position: relative;
+  text-decoration: none;
+  list-style: none;
+}
+
+main .content {
+
+}
+
+.banner {
+  display: flex;
+  width: 100%;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+.skills {
+  display: grid;
+}
